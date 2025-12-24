@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "pipeline-orch"
+version = "0.1.0"
+description = ""
+authors = ["XivC <artemd55131@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+celery = "^5.6.0"
+redis = "^7.1.0"
+pydantic = "^2.12.5"
+docker = "^7.1.0"
+python-kubernetes = "^0.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

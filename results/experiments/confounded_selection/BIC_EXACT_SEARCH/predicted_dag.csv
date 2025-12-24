@@ -1,0 +1,10 @@
+source,target
+passed,ses
+passed,applicant
+study,applicant
+score,passed
+score,study
+ses,study
+score,ses
+ses,applicant
+score,applicant

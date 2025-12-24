@@ -1,0 +1,9 @@
+source,target
+IsActiveMember,Tenure
+Balance,Exited
+IsActiveMember,Exited
+CreditScore,Exited
+IsActiveMember,Age
+NumOfProducts,Age
+Exited,Age
+HasCrCard,Tenure

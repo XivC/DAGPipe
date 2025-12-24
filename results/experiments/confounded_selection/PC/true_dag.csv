@@ -1,0 +1,8 @@
+source,target
+ses,score
+ses,applicant
+study,applicant
+score,passed
+study,score
+ses,study
+score,applicant

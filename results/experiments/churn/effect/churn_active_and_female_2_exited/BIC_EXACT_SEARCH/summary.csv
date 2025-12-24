@@ -1,0 +1,3 @@
+method,mode,estimand,treatment,outcome,adjustment_set,coef,ci_low,ci_high,r2,model
+BIC_EXACT_SEARCH,NAIVE,LOGIT_DUMMY,"IsActiveMember,Gender_Female",Exited,,-1.0754437635410554,-1.1885055110883405,-0.9623820159937703,0.1531612740702717,LOGIT_DUMMY
+BIC_EXACT_SEARCH,PREDICTED_DAG,LOGIT_DUMMY,"IsActiveMember,Gender_Female",Exited,Age|CreditScore|Geography_France|Geography_Germany|NumOfProducts,-1.0695210384801173,-1.1822890601024587,-0.9567530168577758,0.15008860147881087,LOGIT_DUMMY

@@ -1,0 +1,3 @@
+method,mode,estimand,treatment,outcome,adjustment_set,coef,ci_low,ci_high,r2,model
+RESIT,NAIVE,OLS_DUMMY,Geography_Germany,CreditScore,,118.04207107933243,113.78767493909821,122.29646721956665,0.0016405885327491765,OLS_DUMMY
+RESIT,PREDICTED_DAG,OLS_DUMMY,Geography_Germany,CreditScore,Balance|Gender_Female|Geography_France|NumOfProducts,-0.7803205734415872,-6.492420535546999,4.931779388663824,0.00031713236861707905,OLS_DUMMY

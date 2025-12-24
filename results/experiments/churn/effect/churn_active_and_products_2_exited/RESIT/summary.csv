@@ -1,0 +1,3 @@
+method,mode,estimand,treatment,outcome,adjustment_set,coef,ci_low,ci_high,r2,model
+RESIT,NAIVE,LOGIT_DUMMY,"IsActiveMember,NumOfProducts",Exited,,-1.0754437635410554,-1.1885055110883405,-0.9623820159937703,0.1531612740702717,LOGIT_DUMMY
+RESIT,PREDICTED_DAG,LOGIT_DUMMY,"IsActiveMember,NumOfProducts",Exited,Balance|Gender_Female|Geography_France,-0.7973295889614155,-0.899664488584556,-0.6949946893382749,0.0565359248901427,LOGIT_DUMMY
