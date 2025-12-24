@@ -181,9 +181,9 @@ Directory structure:
 ## Examples of experiment results
 
 
-[](content/example_1.png)
-[](content/example_2.png)
-[](content/example_3.png)
+![](content/example_1.png)
+![](content/example_2.png)
+![](content/example_3.png)
 
 Treatment effect metrics csv example
 
@@ -192,3 +192,5 @@ Treatment effect metrics csv example
 | BIC_EXACT_SEARCH | NAIVE         | LOGIT    | study     | passed  |                | -0.12329539963682737 | -0.4338001617561109 | 0.18720936248245615 | 0.3256096881751185 | LOGIT |
 | BIC_EXACT_SEARCH | PREDICTED_DAG | LOGIT    | study     | passed  | score          | -0.14993011434454898 | -0.4557231582233071 | 0.1558629295342092  | 0.3254644672131567 | LOGIT |
 | BIC_EXACT_SEARCH | TRUE_DAG      | LOGIT    | study     | passed  | ses            | 5.89851639587262     | 5.679229955252334   | 6.117802836492905   | 0.1849896446696564 | LOGIT |
+
+Other example results could be found in `/results/`
